@@ -61,4 +61,14 @@ After analyzing the data, the recommended top three cities for new store opening
 width="100%" alt="my Solutions.sql">
 </p>
 
+## Entity Relationship Diagram (ERD)
+
+![ERD Diagram](ERD.png)
+
+
+
+
+
+
+
 ---
