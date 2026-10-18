@@ -56,5 +56,9 @@ After analyzing the data, the recommended top three cities for new store opening
 1. Highest number of customers, which is 69.  
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
+   <p align="center">
+<img src="my Solutions.sql"
+width="100%" alt="my Solutions.sql">
+</p>
 
 ---
